@@ -1,0 +1,1 @@
+# antrenament-fncs-fn
